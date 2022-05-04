@@ -1,0 +1,2123 @@
+.team-16 [class$="--theme-o-border"],
+.team-16 hr {
+    border-color: #dedede
+}
+
+@font-face {
+    font-family: UnitedSans;
+    src: url(https://beta-cms.nhl.bamgrid.com/images/assets/binary/281289752/binary-file/file.woff) format('woff');
+    font-style: normal;
+    font-weight: 400
+}
+
+.team-16 {
+    background-color: #000;
+    font-family: "Helvetica Neue", Helvetica, arial, sans-serif;
+    color: #333
+}
+
+.team-16 [class$="--theme-o-background"] {
+    background-color: #eee
+}
+
+.team-16 [class$="--theme-o-link"]:active,
+.team-16 [class$="--theme-o-link"]:link {
+    color: #CE1126
+}
+
+.team-16 [class$="--theme-o-link"]:hover {
+    color: #ea1028;
+    text-decoration: none
+}
+
+.team-16 [class$="--theme-o-text"] {
+    color: #333
+}
+
+.team-16 [class$="--theme-page-title"],
+.team-16 [class$="--theme-o-tag"],
+.team-16 [class$="--theme-o-title"] {
+    color: #000
+}
+
+.team-16 [class$="--theme-page-background"] {
+    background-color: #000
+}
+
+.team-16 [class$="--theme-primary-color-text"] {
+    color: #CE1126
+}
+
+.team-16 [class$="--theme-primary-color-text"]:hover {
+    color: #ed253b
+}
+
+.team-16 [class$="--theme-button-background"] {
+    background-color: #CE1126
+}
+
+.team-16 [class$="--theme-button-text"] {
+    color: #fff
+}
+
+.team-16 [class$="--theme-table-header"] {
+    color: #000
+}
+
+.team-16 [class$="--theme-thumbnail-headline"] {
+    color: #fff
+}
+
+.team-16 a {
+    color: #CE1126
+}
+
+.team-16 a:hover {
+    color: #ea1028;
+    text-decoration: none
+}
+
+.team-16 h1 {
+    font-family: UnitedSans;
+    text-transform: uppercase;
+    font-size: 36px
+}
+
+@media (min-width:568px) {
+    .team-16 h1 {
+        font-size: 42px
+    }
+}
+
+.team-16 .col__title {
+    font-family: UnitedSans;
+    text-transform: uppercase;
+    font-size: 24px;
+    color: #000
+}
+
+@media (min-width:568px) {
+    .team-16 .col__title {
+        font-size: 28px
+    }
+
+    .team-16 .club-bg-skin {
+        background-position: top center;
+        background-repeat: no-repeat
+    }
+
+    .team-16 .club-bg-skin--1 {
+        background-image: url(https://beta-cms.nhl.bamgrid.com/images/photos/319874308/2568x1800/cut.jpg);
+        background-attachment: fixed
+    }
+
+    .team-16 .club-bg-skin--2 {
+        background-image: url(https://beta-cms.nhl.bamgrid.com/images/photos/310613060/1920x1028/cut.jpg);
+        background-attachment: fixed
+    }
+
+    .team-16 .club-bg-skin--3 {
+        background-image: url(https://beta-cms.nhl.bamgrid.com/images/photos/310614242/1920x1028/cut.jpg);
+        background-attachment: fixed
+    }
+
+    .team-16 .club-bg-skin--4 {
+        background-image: url(https://beta-cms.nhl.bamgrid.com/images/photos/310613640/1920x1028/cut.jpg);
+        background-attachment: fixed
+    }
+}
+
+.team-16 .template {
+    background-color: transparent
+}
+
+.team-16 .template__container,
+.team-16 .template__page-banner-container {
+    background-color: #fff
+}
+
+.team-16 .feature-header,
+.team-16 .jumbotron-header {
+    color: #000
+}
+
+.team-16 .section-header,
+.team-16 .section-subheader {
+    color: #333
+}
+
+.team-16 .more-link,
+.team-16 .secondary-link,
+.team-16 .secondary-link--dark-bg:focus,
+.team-16 .secondary-link--dark-bg:hover,
+.team-16 .secondary-link--light-bg:focus,
+.team-16 .secondary-link--light-bg:hover {
+    color: #CE1126
+}
+
+.team-16 .more-link:focus,
+.team-16 .more-link:hover {
+    color: #ea1028;
+    text-decoration: none
+}
+
+.team-16 .panel-default>.panel-heading {
+    background-color: #eee
+}
+
+.team-16 .panel-default>.panel-heading+.panel-collapse>.panel-body {
+    color: #333
+}
+
+.team-16 .section-banner__search-link:hover,
+.team-16 .social-share__share-link:hover {
+    color: #ea1028
+}
+
+.team-16 .social-share__link {
+    color: #fff
+}
+
+.team-16 .social-share__link:hover {
+    color: #D2D2D2
+}
+
+.team-16 .article-link {
+    box-shadow: inset 0 -3px 0 rgba(234, 16, 40, .2);
+    border-bottom-color: rgba(234, 16, 40, .2);
+    transition: background-color .15s cubic-bezier(.33, .66, .66, 1), box-shadow .15s cubic-bezier(.33, .66, .66, 1), border-bottom .15s cubic-bezier(.33, .66, .66, 1)
+}
+
+.team-16 .article-link:focus,
+.team-16 .article-link:hover {
+    background-color: rgba(234, 16, 40, .2);
+    box-shadow: inset 0 -3px 0 rgba(234, 16, 40, 0);
+    border-bottom-color: rgba(234, 16, 40, 0)
+}
+
+.team-16 .tag-link {
+    color: #CE1126
+}
+
+.team-16 .tag-link:focus,
+.team-16 .tag-link:hover {
+    color: #ea1028;
+    text-decoration: none
+}
+
+.team-16 .tag-link:not([href]),
+.team-16 .tag-link[disabled],
+.team-16 .tag-link[href=""] {
+    color: #CE1126
+}
+
+.team-16 .headline-link {
+    color: #000
+}
+
+.team-16 .headline-link:focus,
+.team-16 .headline-link:hover {
+    color: #ea1028;
+    text-decoration: none
+}
+
+.team-16 .headline-link--dark-bg {
+    color: #000
+}
+
+.team-16 .headline-link--dark-bg:focus,
+.team-16 .headline-link--dark-bg:hover {
+    color: #ea1028;
+    text-decoration: none
+}
+
+.team-16 .card {
+    background: #eee
+}
+
+.team-16 .btn-primary {
+    border-color: #CE1126;
+    background-color: #CE1126;
+    color: #fff
+}
+
+.team-16 .btn-primary:active,
+.team-16 .btn-primary:focus,
+.team-16 .btn-primary:hover {
+    background-color: #ed253b;
+    border-color: #ed253b;
+    color: #fff;
+    text-decoration: none
+}
+
+.team-16 .btn-primary-outline {
+    border-color: #CE1126;
+    color: #CE1126;
+    background-color: transparent
+}
+
+.team-16 .btn-primary-outline:active,
+.team-16 .btn-primary-outline:focus,
+.team-16 .btn-primary-outline:hover {
+    background: #CE1126;
+    color: #fff;
+    text-decoration: none
+}
+
+.team-16 .btn-secondary {
+    border-color: #D2D2D2;
+    background-color: #D2D2D2;
+    color: #454545
+}
+
+.team-16 .btn-secondary:active,
+.team-16 .btn-secondary:active:hover,
+.team-16 .btn-secondary:focus,
+.team-16 .btn-secondary:hover {
+    border-color: #b9b9b9;
+    background-color: #b9b9b9;
+    color: #454545;
+    text-decoration: none
+}
+
+.team-16 .btn-secondary-outline {
+    border-color: #D2D2D2;
+    background-color: transparent
+}
+
+.team-16 .btn-secondary-outline:active,
+.team-16 .btn-secondary-outline:active:hover,
+.team-16 .btn-secondary-outline:focus,
+.team-16 .btn-secondary-outline:hover {
+    border-color: #b9b9b9;
+    background-color: #b9b9b9;
+    text-decoration: none
+}
+
+.team-16 .open>.dropdown-toggle.btn-secondary-outline,
+.team-16 .open>.dropdown-toggle.btn-secondary:focus,
+.team-16 .open>.dropdown-toggle.btn-secondary:hover {
+    border-color: #b9b9b9;
+    background-color: #b9b9b9
+}
+
+.team-16 .btn-tickets {
+    border-color: #337d01;
+    background-color: #337d01;
+    color: #fff
+}
+
+.team-16 .btn-tickets:hover {
+    border-color: #48b001;
+    background-color: #48b001;
+    color: #fff
+}
+
+.team-16 .btn-tickets-outline {
+    border-color: #337d01;
+    color: #337d01;
+    background-color: transparent
+}
+
+.team-16 .btn-tickets-outline:hover {
+    background-color: #48b001;
+    color: #fff
+}
+
+.team-16 .btn-tickets-outline.disabled:hover,
+.team-16 .btn-tickets-outline[disabled]:hover {
+    color: #337d01
+}
+
+.team-16 .nav-pills {
+    background: 0 0
+}
+
+.team-16 .nav-pills>li>a {
+    color: #CE1126
+}
+
+.team-16 .nav-pills>li.active>a,
+.team-16 .nav-pills>li.active>a:focus,
+.team-16 .nav-pills>li.active>a:hover,
+.team-16 .nav-pills>li>a:hover {
+    background: 0 0;
+    border-color: #ea1028;
+    color: #ea1028
+}
+
+.team-16 .m-mixed-feed .mixed-feed,
+.team-16 .m-mixed-feed .mixed-feed__heading,
+.team-16 .m-mixed-feed .mixed-feed__item,
+.team-16 .mediawall,
+.team-16 .mediawall__banner,
+.team-16 .mixed-feed,
+.team-16 .mixed-feed__heading,
+.team-16 .mixed-feed__item,
+.team-16 .template--two-column__content--two .featured-content,
+.team-16 .template--two-column__content--two .follow,
+.team-16 .template--two-column__content--two .standings,
+.team-16 .template--two-column__content--two .team-info,
+.team-16 .template--two-column__content--two .video-corner {
+    background-color: #eee
+}
+
+.team-16 .nhl-spinner,
+.team-16 .nhl-spinner:after {
+    background: #eee
+}
+
+.team-16 .accordion__item-content-body a {
+    color: #CE1126
+}
+
+.team-16 .accordion__item-content-body a:hover {
+    color: #ea1028
+}
+
+.team-16 .m-mixed-feed .mixed-feed__heading {
+    color: #000;
+    font-family: UnitedSans;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 28px
+}
+
+@media (min-width:768px) {
+    .team-16 .m-mixed-feed .mixed-feed__heading {
+        font-size: 30px
+    }
+}
+
+@media (min-width:1024px) {
+    .team-16 .m-mixed-feed .mixed-feed__heading {
+        font-size: 32px
+    }
+}
+
+.team-16 .m-mixed-feed .mixed-feed__item {
+    border-top-color: #dedede
+}
+
+.team-16 .m-mixed-feed .mixed-feed__header-meta,
+.team-16 .m-mixed-feed .mixed-feed__headline,
+.team-16 .m-mixed-feed .mixed-feed__subheader,
+.team-16 .m-mixed-feed .mixed-feed__subheading {
+    color: #333
+}
+
+.team-16 .m-mixed-feed .mixed-feed__social-meta {
+    border-top-color: #dedede
+}
+
+.team-16 .m-mixed-feed .mixed-feed__tag-link {
+    color: #000
+}
+
+.team-16 .m-mixed-feed .mixed-feed__item-header-text a:hover {
+    text-decoration: none
+}
+
+.team-16 .mixed-feed__heading {
+    color: #000;
+    font-family: UnitedSans;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 28px
+}
+
+@media (min-width:768px) {
+    .team-16 .mixed-feed__heading {
+        font-size: 30px
+    }
+}
+
+@media (min-width:1024px) {
+    .team-16 .mixed-feed__heading {
+        font-size: 32px
+    }
+}
+
+.team-16 .mixed-feed__item {
+    border-top-color: #dedede
+}
+
+.team-16 .mixed-feed__header-meta,
+.team-16 .mixed-feed__headline,
+.team-16 .mixed-feed__subheader,
+.team-16 .mixed-feed__subheading {
+    color: #333
+}
+
+.team-16 .mixed-feed__social-meta {
+    border-top-color: #dedede
+}
+
+.team-16 .mixed-feed__tag-link {
+    color: #000
+}
+
+.team-16 .mixed-feed__item-header-text a:hover {
+    text-decoration: none
+}
+
+.team-16 .template--two-column__content--two .featured-content__headline,
+.team-16 .template--two-column__content--two .follow__heading,
+.team-16 .template--two-column__content--two .standings__heading,
+.team-16 .template--two-column__content--two .team-info__heading,
+.team-16 .template--two-column__content--two .video-corner__heading {
+    font-family: UnitedSans;
+    font-weight: 400;
+    color: #000;
+    text-transform: uppercase
+}
+
+.team-16 .template--two-column__content--two .featured-content__headline,
+.team-16 .template--two-column__content--two .follow__heading {
+    font-size: 20px
+}
+
+@media (min-width:568px) {
+
+    .team-16 .template--two-column__content--two .featured-content__headline,
+    .team-16 .template--two-column__content--two .follow__heading {
+        font-size: 24px
+    }
+}
+
+.team-16 .template--two-column__content--two .standings__heading,
+.team-16 .template--two-column__content--two .video-corner__heading {
+    font-size: 28px
+}
+
+@media (min-width:768px) {
+
+    .team-16 .template--two-column__content--two .standings__heading,
+    .team-16 .template--two-column__content--two .video-corner__heading {
+        font-size: 30px
+    }
+}
+
+@media (min-width:1024px) {
+
+    .team-16 .template--two-column__content--two .standings__heading,
+    .team-16 .template--two-column__content--two .video-corner__heading {
+        font-size: 32px
+    }
+}
+
+.team-16 .template--two-column__content--two .featured-content__headline:hover {
+    color: #000
+}
+
+.team-16 .template--two-column__content--two .featured-content__subhead {
+    color: #333
+}
+
+.team-16 .cms-right-rail .promo-content__title,
+.team-16 .cms-right-rail .promo-content__title a {
+    font-family: UnitedSans;
+    font-weight: 400;
+    color: #000;
+    text-transform: uppercase;
+    font-size: 30px
+}
+
+.team-16 .mediawall__nav-arrow:focus,
+.team-16 .mediawall__nav-arrow:hover {
+    color: #ea1028
+}
+
+.team-16 .mediawall__pagination-dot:focus,
+.team-16 .mediawall__pagination-dot:hover {
+    box-shadow: 0 0 0 2px #ea1028
+}
+
+.team-16 .mediawall__pagination-dot--active,
+.team-16 .mediawall__pagination-dot:hover {
+    background-color: #ea1028
+}
+
+.team-16 .mediawall__product-link {
+    color: #FFF
+}
+
+.team-16 .mediawall__blurb {
+    color: #333
+}
+
+.team-16 .section-banner__heading {
+    color: #000
+}
+
+.team-16 .section-banner__subheading {
+    color: #333
+}
+
+.team-16 .section-banner--dark .section-banner__heading {
+    color: #fff
+}
+
+.team-16 .section-banner--dark .section-banner__heading:hover {
+    color: #CE1126;
+    text-decoration: underline
+}
+
+.team-16 .section-banner--dark .section-banner__subheading,
+.team-16 .section-banner--dark .section-banner__tray-link {
+    color: #fff
+}
+
+.team-16 .section-banner--dark .section-banner__tray-link:hover {
+    color: #CE1126;
+    text-decoration: underline
+}
+
+.team-16 .section-banner--dark .social-share__share-link {
+    color: #999
+}
+
+.team-16 .section-banner--dark .social-share__share-link:hover {
+    color: #CE1126;
+    text-decoration: underline
+}
+
+.team-16 .section-banner--dark .section-banner__search-link {
+    color: #999
+}
+
+.team-16 .section-banner--dark .section-banner__search-link:hover {
+    color: #CE1126;
+    text-decoration: underline
+}
+
+.team-16 .section-banner__heading:hover {
+    color: #ea1028;
+    text-decoration: none
+}
+
+.team-16 .video-preview__blurb {
+    color: #000
+}
+
+.team-16 .video-preview--responsive .video-preview__timestamp,
+.team-16 .video-preview__timestamp {
+    color: #333
+}
+
+@media (min-width:568px) {
+
+    .team-16 .cms-right-rail .promo-content__title,
+    .team-16 .cms-right-rail .promo-content__title a {
+        font-size: 32px
+    }
+
+    .team-16 .video-preview--responsive .video-preview__timestamp {
+        color: #FFF
+    }
+}
+
+.team-16 .video-preview--embed .video-preview__blurb,
+.team-16 .video-preview--embed .video-preview__timestamp {
+    color: #FFF
+}
+
+.team-16 .carousel__item--selected .video-preview__image-link,
+.team-16 .video-preview:hover .video-preview__image-link {
+    border-bottom-color: #CE1126
+}
+
+.team-16 .leaderboard {
+    background-color: #eee;
+    padding-top: 0
+}
+
+.team-16 .leaderboard__heading {
+    font-family: UnitedSans;
+    font-weight: 400;
+    color: #000;
+    text-transform: uppercase;
+    font-size: 28px
+}
+
+@media (min-width:768px) {
+    .team-16 .leaderboard__heading {
+        font-size: 30px
+    }
+}
+
+@media (min-width:1024px) {
+    .team-16 .leaderboard__heading {
+        font-size: 32px
+    }
+}
+
+.team-16 .leaderboard__player-category,
+.team-16 .leaderboard__player-name,
+.team-16 .leaderboard__stat-category,
+.team-16 .leaderboard__stat-value {
+    color: #000
+}
+
+.team-16 .leaderboard__player-info,
+.team-16 .leaderboard__tie {
+    color: #333
+}
+
+.team-16 .leaderboard__leader {
+    border-bottom-color: #dedede
+}
+
+.team-16 .leaderboard__list {
+    margin-bottom: 0;
+    margin-top: 0;
+    border-bottom-color: transparent
+}
+
+.team-16 .leaderboard__link:hover .leaderboard__stat-category,
+.team-16 .leaderboard__link:hover .leaderboard__stat-value {
+    color: #ea1028
+}
+
+.team-16 .title-banner {
+    background-color: transparent;
+    box-shadow: none
+}
+
+@media screen and (min-width:1024px) {
+    .team-16 .title-banner {
+        min-height: 270px
+    }
+
+    .team-16 .title-banner__sponsor {
+        top: -24px;
+        right: -24px
+    }
+}
+
+.team-16 .title-banner.title-banner--with-logo {
+    min-height: 0
+}
+
+.team-16 .title-banner__heading {
+    color: #000
+}
+
+.team-16 .title-banner__calendar-icon {
+    background: 0 0
+}
+
+.team-16 .title-banner__calendar-icon:active,
+.team-16 .title-banner__calendar-icon:hover {
+    color: #ea1028
+}
+
+.team-16 .title-banner__navigation {
+    border-top-color: #dedede;
+    border-bottom-color: #dedede
+}
+
+.team-16 .title-banner__presented-by,
+.team-16 .title-banner__sponsor {
+    background-color: transparent
+}
+
+.team-16 .title-banner__navigation .nav-pills a:focus {
+    background: 0 0
+}
+
+.team-16 .datepicker table {
+    border: none
+}
+
+.team-16 .datepicker table tfoot .today {
+    background: #CE1126;
+    color: #fff
+}
+
+.team-16 .datepicker table tfoot .today:hover {
+    background: #ed253b
+}
+
+.team-16 .datepicker .next,
+.team-16 .datepicker .prev {
+    color: #CE1126
+}
+
+.team-16 .datepicker .next:hover,
+.team-16 .datepicker .prev:hover {
+    color: #ed253b
+}
+
+.team-16 table {
+    border: 1px solid #dedede
+}
+
+.team-16 thead {
+    background-color: #000
+}
+
+.team-16 tfoot,
+.team-16 tr+tr {
+    border-top: 1px solid #dedede
+}
+
+.team-16 .table-token tbody tr {
+    background-color: #eee;
+    color: #333
+}
+
+.team-16 .table-token__responsive-table {
+    border-left: none;
+    border-right: none
+}
+
+.team-16 .responsive-datatable__inner,
+.team-16 .table-responsive {
+    border-right: 1px solid #dedede;
+    border-left: 1px solid #dedede
+}
+
+.team-16 .responsive-datatable__pinned tbody td:first-child,
+.team-16 .responsive-datatable__pinned tbody th:first-child {
+    background-color: #e1e1e1
+}
+
+.team-16 .responsive-datatable__scrollable tbody tr {
+    background-color: #eee;
+    color: #333
+}
+
+.team-16 .responsive-datatable__scrollable tbody tr.tr--highlighted,
+.team-16 .tr--highlighted {
+    background-color: rgba(206, 17, 38, .3)
+}
+
+.team-16 .responsive-datatable__scrollable thead th,
+.team-16 .responsive-datatable__scrollable thead tr.tr--highlighted {
+    background-color: #000
+}
+
+.team-16 .responsive-datatable__pinned thead th:first-child {
+    color: #fff
+}
+
+.team-16 .responsive-datatable__pinned thead th:first-child.th--selected,
+.team-16 .responsive-datatable__scrollable thead .th--selected,
+.team-16 .th--selected {
+    background-color: #CE1126;
+    color: #fff
+}
+
+.team-16 .td--fixed {
+    background-color: rgba(206, 17, 38, .3)
+}
+
+.team-16 .td--highlighted {
+    background-color: rgba(206, 17, 38, .1)
+}
+
+.team-16 .responsive-datatable__pinned thead {
+    background-color: transparent
+}
+
+.team-16 .responsive-datatable__pinned thead td a {
+    color: #CE1126
+}
+
+.team-16 .responsive-datatable__pinned thead td a:hover {
+    color: #ea1028
+}
+
+.team-16 .hero__blurb,
+.team-16 .hero__heading {
+    background-color: rgba(206, 17, 38, .9);
+    color: #FFF
+}
+
+.team-16 .hero__heading {
+    font-family: UnitedSans;
+    text-transform: uppercase;
+    font-size: 32px
+}
+
+@media (min-width:768px) {
+    .team-16 .hero__heading {
+        font-size: 36px
+    }
+}
+
+@media (min-width:1024px) {
+    .team-16 .hero__heading {
+        font-size: 42px
+    }
+}
+
+.team-16 .hero__button {
+    background-color: #CE1126;
+    border-color: #CE1126;
+    color: #fff
+}
+
+.team-16 .hero__button:active,
+.team-16 .hero__button:focus,
+.team-16 .hero__button:hover {
+    background-color: #ed253b;
+    border-color: #ed253b;
+    color: #fff
+}
+
+.team-16 .promo-content__scrim-text {
+    background-color: rgba(206, 17, 38, .9);
+    color: #FFF
+}
+
+.team-16 .promo-content__subtitle .headline-link {
+    color: #CE1126
+}
+
+.team-16 .promo-content__subtitle .headline-link:hover {
+    color: #ea1028;
+    text-decoration: none
+}
+
+.team-16 .promo-content__content {
+    color: #333
+}
+
+.team-16 .promo-content__button {
+    border-color: #CE1126;
+    color: #fff;
+    background-color: #CE1126
+}
+
+.team-16 .promo-content__button:active,
+.team-16 .promo-content__button:active:focus,
+.team-16 .promo-content__button:active:hover,
+.team-16 .promo-content__button:focus,
+.team-16 .promo-content__button:hover {
+    border-color: #ed253b;
+    background-color: #ed253b;
+    color: #fff
+}
+
+.team-16 .sidekick {
+    background-color: #111
+}
+
+.team-16 .sidekick__heading {
+    background-color: rgba(206, 17, 38, .9);
+    color: #FFF
+}
+
+.team-16 .sidekick__heading-icon {
+    color: #FFF
+}
+
+.team-16 .sidekick__heading--club-font {
+    font-family: UnitedSans;
+    font-size: 24px;
+    text-transform: uppercase
+}
+
+.team-16 .sidekick__heading--club-font.sidekick__heading--font-size-lg {
+    font-size: 24px
+}
+
+@media (min-width:768px) {
+    .team-16 .sidekick__heading--club-font.sidekick__heading--font-size-lg {
+        font-size: 24px
+    }
+}
+
+@media (min-width:1024px) {
+    .team-16 .sidekick__heading--club-font.sidekick__heading--font-size-lg {
+        font-size: 32px
+    }
+}
+
+.team-16 .sidekick__button {
+    background-color: #CE1126;
+    color: #fff
+}
+
+.team-16 .sidekick__button:active,
+.team-16 .sidekick__button:focus,
+.team-16 .sidekick__button:hover {
+    background-color: #ed253b;
+    color: #fff
+}
+
+.team-16 .card {
+    background-color: #eee
+}
+
+.team-16 .card__title {
+    font-family: UnitedSans;
+    text-transform: uppercase;
+    font-size: 24px
+}
+
+@media (min-width:568px) {
+    .team-16 .card__title {
+        font-size: 28px
+    }
+}
+
+.team-16 .cms-wysiwyg a {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+
+.team-16 .page-banner__title {
+    font-family: UnitedSans;
+    color: #000;
+    text-transform: uppercase;
+    font-size: 36px
+}
+
+@media (min-width:568px) {
+    .team-16 .page-banner__title {
+        font-size: 42px
+    }
+}
+
+.team-16 .pagination>.active>a {
+    border-color: #ed253b;
+    background-color: #ed253b;
+    color: #fff
+}
+
+.team-16 .pagination>li>a,
+.team-16 .pagination>li>span {
+    color: #333
+}
+
+.team-16 .pagination>li>a:focus,
+.team-16 .pagination>li>a:hover,
+.team-16 .pagination>li>span:focus,
+.team-16 .pagination>li>span:hover {
+    border-color: #ed253b;
+    background-color: #ed253b;
+    color: #fff
+}
+
+.team-16 .pagination>.disabled>a,
+.team-16 .pagination>.disabled>a:focus,
+.team-16 .pagination>.disabled>a:hover,
+.team-16 .pagination>.disabled>span,
+.team-16 .pagination>.disabled>span:focus,
+.team-16 .pagination>.disabled>span:hover {
+    opacity: .5;
+    color: #333;
+    background-color: #eee
+}
+
+.team-16 .content-heading {
+    border-left-color: #CE1126;
+    background-color: #000;
+    color: #fff;
+    font-family: UnitedSans;
+    text-transform: uppercase;
+    font-size: 30px
+}
+
+@media (min-width:568px) {
+    .team-16 .content-heading {
+        font-size: 32px
+    }
+}
+
+.team-16 .modal {
+    color: #262626
+}
+
+.team-16 .navbar {
+    border-top: 1px solid #D2D2D2;
+    border-bottom: 1px solid #D2D2D2
+}
+
+.team-16 .navbar__nav-link {
+    color: #CE1126
+}
+
+.team-16 .navbar__nav-link--active,
+.team-16 .navbar__nav-link:hover {
+    border-bottom: 4px solid #ea1028;
+    background-color: transparent;
+    color: #ea1028
+}
+
+.team-16 .navbar__responsive-container {
+    background-color: transparent
+}
+
+.team-16 .g5-component--nhl-draft-tracker {
+    background: #eee
+}
+
+.team-16 .g5-component--nhl-draft-tracker .p-draft-tracker__control--left {
+    background-color: #CE1126;
+    box-shadow: 3px 0 10px #dedede
+}
+
+.team-16 .g5-component--nhl-draft-tracker .p-draft-tracker__control--right {
+    background-color: #CE1126;
+    box-shadow: -3px 0 10px #dedede
+}
+
+.team-16 .g5-component--nhl-draft-tracker .p-draft-tracker .nhl-icon--arrow-carousel-left,
+.team-16 .g5-component--nhl-draft-tracker .p-draft-tracker .nhl-icon--arrow-carousel-right {
+    color: #fff
+}
+
+.team-16#news_article .section-banner a,
+.team-16#news_index .section-banner a,
+.team-16#news_topicId .section-banner a {
+    color: #CE1126
+}
+
+.team-16#news_article .section-banner a:hover,
+.team-16#news_index .section-banner a:hover,
+.team-16#news_topicId .section-banner a:hover {
+    color: #ea1028
+}
+
+.team-16#news_article .section-banner__subheading,
+.team-16#news_index .section-banner__subheading,
+.team-16#news_topicId .section-banner__subheading {
+    color: #000
+}
+
+.team-16 .section-news {
+    background-color: #fff
+}
+
+.team-16 .section-news a {
+    color: #CE1126
+}
+
+.team-16 .section-news a:hover {
+    color: #ea1028
+}
+
+.team-16 .section-news .template__container,
+.team-16 .template--article__sidebar {
+    background-color: transparent
+}
+
+.team-16 .article-item {
+    background-color: #eee;
+    color: #333
+}
+
+.team-16 .article-item__primary-tag {
+    color: #000
+}
+
+.team-16 .article-item__headline {
+    color: #000;
+    font-family: Sintony, Arial, sans-serif;
+    text-transform: none
+}
+
+.team-16 .article-item__meta {
+    border-top-color: #dedede
+}
+
+.team-16 .article-sidebar-item {
+    background-color: #eee;
+    border-bottom-color: #dedede
+}
+
+.team-16 .article-sidebar-item:hover .article-sidebar-item__meta-headline {
+    color: #FFF
+}
+
+.team-16 .article-sidebar-item.related-highlighted {
+    background-color: rgba(206, 17, 38, .9)
+}
+
+.team-16 .article-sidebar-item__meta-tag {
+    color: #000
+}
+
+.team-16 .article-item__body a,
+.team-16 .article-item__body p a,
+.team-16 .article-item__preview a,
+.team-16 .article-item__preview p a {
+    color: #333;
+    box-shadow: inset 0 -3px 0 rgba(0, 0, 0, .2);
+    border-bottom-color: rgba(0, 0, 0, .2);
+    transition: color .15s cubic-bezier(.33, .66, .66, 1), background-color .15s cubic-bezier(.33, .66, .66, 1), box-shadow .15s cubic-bezier(.33, .66, .66, 1), border-bottom .15s cubic-bezier(.33, .66, .66, 1)
+}
+
+.team-16 .article-item__body a:focus,
+.team-16 .article-item__body a:hover,
+.team-16 .article-item__body p a:focus,
+.team-16 .article-item__body p a:hover,
+.team-16 .article-item__preview a:focus,
+.team-16 .article-item__preview a:hover,
+.team-16 .article-item__preview p a:focus,
+.team-16 .article-item__preview p a:hover {
+    color: #fff;
+    background-color: #ea1028;
+    box-shadow: inset 0 -3px 0 #ea1028;
+    border-bottom-color: #ea1028
+}
+
+.team-16 .article-item__more:hover {
+    color: inherit
+}
+
+.team-16#news_article .skin,
+.team-16#news_index .skin {
+    background-position: center 130px
+}
+
+.team-16#homepage_index .content-heading[data-version="2.0.0"] {
+    color: #333
+}
+
+.team-16#homepage_index .template[data-version="homepage-2.1"] .card {
+    background-color: #fff
+}
+
+.team-16#homepage_index .template[data-version="homepage-2.1"] .template__container {
+    background-color: #ECECEC
+}
+
+.team-16#homepage_index .template[data-version="homepage-2.1"] hr {
+    border-color: #ECECEC
+}
+
+.team-16#homepage_index .template[data-version="homepage-2.1"] .btn-primary {
+    border-color: #C8102E;
+    background-color: #C8102E;
+    color: #fff
+}
+
+.team-16#homepage_index .template[data-version="homepage-2.1"] .btn-primary:focus,
+.team-16#homepage_index .template[data-version="homepage-2.1"] .btn-primary:hover {
+    border-color: #000;
+    background-color: #000
+}
+
+.team-16#homepage_index .template[data-version="homepage-2.1"] .follow-accounts__link,
+.team-16#homepage_index .template[data-version="homepage-2.1"] .links-list__link,
+.team-16#homepage_index .template[data-version="homepage-2.1"] .related-links__link {
+    color: #333
+}
+
+.team-16#homepage_index .template[data-version="homepage-2.1"] .follow-accounts__link:focus,
+.team-16#homepage_index .template[data-version="homepage-2.1"] .follow-accounts__link:hover,
+.team-16#homepage_index .template[data-version="homepage-2.1"] .links-list__link:focus,
+.team-16#homepage_index .template[data-version="homepage-2.1"] .links-list__link:hover,
+.team-16#homepage_index .template[data-version="homepage-2.1"] .related-links__link:focus,
+.team-16#homepage_index .template[data-version="homepage-2.1"] .related-links__link:hover {
+    color: #C8102E;
+    text-decoration-color: #C8102E;
+    text-decoration: underline
+}
+
+.team-16#homepage_index .template[data-version="homepage-2.1"] .responsive-datatable__scrollable tr.tr--highlighted {
+    background-color: rgba(200, 16, 46, .08)
+}
+
+.team-16#homepage_index .template[data-version="homepage-2.1"] .leaderboard__link:focus .leaderboard__stat-category,
+.team-16#homepage_index .template[data-version="homepage-2.1"] .leaderboard__link:focus .leaderboard__stat-value,
+.team-16#homepage_index .template[data-version="homepage-2.1"] .leaderboard__link:hover .leaderboard__stat-category,
+.team-16#homepage_index .template[data-version="homepage-2.1"] .leaderboard__link:hover .leaderboard__stat-value {
+    color: #C8102E
+}
+
+.team-16#homepage_index .template[data-version="homepage-2.1"] .nhl-showcase-organism .showcase__blurb {
+    color: #999
+}
+
+.team-16#homepage_index .template[data-version="homepage-2.1"] .nhl-showcase-organism .showcase__list-item:first-child .team-16#homepage_index .template[data-version="homepage-2.1"] .nhl-showcase-organism .showcase__list-item__headline {
+    color: #fff
+}
+
+.team-16#homepage_index .template[data-version="homepage-2.1"] .nhl-showcase-organism .showcase__list-item:not(:first-child) .showcase__headline {
+    color: #333
+}
+
+.team-16#homepage_index .template[data-version="homepage-2.1"] .nhl-showcase-organism .showcase__list-item:not(:first-child):focus .showcase__headline,
+.team-16#homepage_index .template[data-version="homepage-2.1"] .nhl-showcase-organism .showcase__list-item:not(:first-child):hover .showcase__headline {
+    color: #C8102E;
+    text-decoration-color: #C8102E;
+    text-decoration: underline
+}
+
+.team-16#photo-gallery_index .carousel-nav__arrow:active,
+.team-16#photo-gallery_index .carousel-nav__arrow:focus,
+.team-16#photo-gallery_index .carousel-nav__arrow:hover {
+    color: #ea1028
+}
+
+.team-16#photo-gallery_index .thumbnail-gallery__photo:active,
+.team-16#photo-gallery_index .thumbnail-gallery__photo:focus,
+.team-16#photo-gallery_index .thumbnail-gallery__photo:hover {
+    outline-color: #ea1028
+}
+
+.team-16#player_index .player-nav__navbar a.active,
+.team-16#player_index .player-nav__navbar a:hover {
+    border-bottom: 4px solid #CE1126
+}
+
+.team-16#player_index .awards__heading,
+.team-16#player_index .bio__heading,
+.team-16#player_index .news__heading,
+.team-16#player_index .player-jumbotron-vitals__name-num,
+.team-16#player_index .statistics__heading {
+    font-family: UnitedSans;
+    text-transform: uppercase;
+    font-size: 24px
+}
+
+@media (min-width:568px) {
+
+    .team-16#player_index .awards__heading,
+    .team-16#player_index .bio__heading,
+    .team-16#player_index .news__heading,
+    .team-16#player_index .player-jumbotron-vitals__name-num,
+    .team-16#player_index .statistics__heading {
+        font-size: 28px
+    }
+}
+
+.team-16#player_index .awards__subheading,
+.team-16#player_index .bio__subheading,
+.team-16#player_index .news__subheading,
+.team-16#player_index .season-summary__subheading,
+.team-16#player_index .statistics__subheading {
+    font-family: UnitedSans;
+    font-size: 18px
+}
+
+@media (min-width:568px) {
+
+    .team-16#player_index .awards__subheading,
+    .team-16#player_index .bio__subheading,
+    .team-16#player_index .news__subheading,
+    .team-16#player_index .season-summary__subheading,
+    .team-16#player_index .statistics__subheading {
+        font-size: 20px
+    }
+}
+
+.team-16 .split-table .data-table td a {
+    color: #CE1126
+}
+
+.team-16 .split-table .data-table td a:hover {
+    color: #ea1028
+}
+
+.team-16 .data-table tbody td {
+    background-color: #eee;
+    color: #333
+}
+
+.team-16 .data-table tbody td.name-col {
+    background-color: #e1e1e1
+}
+
+.team-16 .schedule__content {
+    background-color: transparent
+}
+
+.team-16 .schedule__content .nav-icons a:hover {
+    text-decoration: none
+}
+
+.team-16 .schedule__content .datepicker__button,
+.team-16 .schedule__content .month-nav {
+    color: #000
+}
+
+.team-16 .day-table td .icon-label-link-set .icon-label-link:hover,
+.team-16 .schedule__content .month-nav:hover {
+    color: #ea1028
+}
+
+.team-16 .card__calendar .date-row td.home-game,
+.team-16 .grid-calendar-abs-pos-container .date-popover.home-game,
+.team-16 .grid-calendar-legend .symbol-label-pair__home .symbol .team-swatch {
+    background-color: #CE1126
+}
+
+.team-16 .schedule-tickets-icon-color,
+.team-16 .schedule-tickets-icon-color a {
+    color: #337d01 !important
+}
+
+.team-16 .g5-component--nhl-scores .g5-component--nhl-scores__game {
+    background-color: #eee
+}
+
+.team-16 .g5-component--nhl-scores--responsive .g5-component--nhl-scores__buttons--tray .g5-component--nhl-scores__button:hover {
+    background-color: #CE1126;
+    color: #fff
+}
+
+.team-16 .nhl-scores--responsive .nhl-scores__list-item {
+    border-color: #dedede
+}
+
+@media (min-width:1308px) {
+
+    .team-16 .g5-component--nhl-scores--responsive .g5-component--nhl-scores__game:hover .g5-component--nhl-scores__info-goal-scorers-item-player,
+    .team-16 .g5-component--nhl-scores--responsive .g5-component--nhl-scores__game:hover .g5-component--nhl-scores__info-stat-leader-player,
+    .team-16 .g5-component--nhl-scores--responsive.g5-component--nhl-scores--active .g5-component--nhl-scores__info-goal-scorers-item-player,
+    .team-16 .g5-component--nhl-scores--responsive.g5-component--nhl-scores--active .g5-component--nhl-scores__info-stat-leader-player {
+        color: #ccc
+    }
+
+    .team-16 .g5-component--nhl-scores--responsive .g5-component--nhl-scores__game:hover .g5-component--nhl-scores__info-goal-scorers-item-player:active,
+    .team-16 .g5-component--nhl-scores--responsive .g5-component--nhl-scores__game:hover .g5-component--nhl-scores__info-goal-scorers-item-player:hover,
+    .team-16 .g5-component--nhl-scores--responsive .g5-component--nhl-scores__game:hover .g5-component--nhl-scores__info-stat-leader-player:active,
+    .team-16 .g5-component--nhl-scores--responsive .g5-component--nhl-scores__game:hover .g5-component--nhl-scores__info-stat-leader-player:hover,
+    .team-16 .g5-component--nhl-scores--responsive.g5-component--nhl-scores--active .g5-component--nhl-scores__info-goal-scorers-item-player:active,
+    .team-16 .g5-component--nhl-scores--responsive.g5-component--nhl-scores--active .g5-component--nhl-scores__info-goal-scorers-item-player:hover,
+    .team-16 .g5-component--nhl-scores--responsive.g5-component--nhl-scores--active .g5-component--nhl-scores__info-stat-leader-player:active,
+    .team-16 .g5-component--nhl-scores--responsive.g5-component--nhl-scores--active .g5-component--nhl-scores__info-stat-leader-player:hover {
+        color: #fff
+    }
+}
+
+.team-16 thead.g5-component--nhl-scores__linescore-head {
+    background: 0 0
+}
+
+.team-16 .g5-component--nhl-scores__linescore-period {
+    color: #999
+}
+
+.team-16 .g5-component--nhl-scores--responsive .g5-component--nhl-scores__linescore {
+    border: none
+}
+
+.team-16 .nhl-scores--horizontal .g5-component--nhl-scores .g5-component--nhl-scores__buttons,
+.team-16 .nhl-scores--horizontal .g5-component--nhl-scores .g5-component--nhl-scores__buttons--tray {
+    background: #CE1126
+}
+
+.team-16 .nhl-scores--horizontal .g5-component--nhl-scores .g5-component--nhl-scores__buttons-item .g5-component--nhl-scores__button,
+.team-16 .nhl-scores--horizontal .g5-component--nhl-scores .g5-component--nhl-scores__buttons-item:hover .g5-component--nhl-scores__button {
+    color: #fff
+}
+
+.team-16 .nhl-scores--horizontal .g5-component--nhl-scores .g5-component--nhl-scores__button {
+    border-color: #fff
+}
+
+.team-16 .ss-options__shadow {
+    display: none
+}
+
+.team-16 .ss-options__selecteditem {
+    background: inherit
+}
+
+.team-16 .ss-options__radio:checked+label {
+    color: #CE1126;
+    border-bottom-color: #CE1126
+}
+
+.team-16 .ss-title {
+    color: #000
+}
+
+.team-16 .ss-options__label {
+    color: #333
+}
+
+.team-16 .ss-options__label:hover {
+    color: #ea1028
+}
+
+.team-16 .additional-info__heading__title__link {
+    color: #CE1126
+}
+
+.team-16 .additional-info__heading__title__link.collapsed {
+    color: #333
+}
+
+.team-16 .header-bottom-space-with-message,
+.team-16 .stats__content {
+    background-color: #eee
+}
+
+@media (max-width:568px) {
+    .team-16#video_index {
+        background-color: #000
+    }
+}
+
+.team-16#video_index .video-meta__title {
+    color: #fff;
+    font-size: 20px;
+    font-family: Sintony, Arial, sans-serif
+}
+
+.team-16#video_index .video-meta__date,
+.team-16#video_index .video-meta__description,
+.team-16#video_index .video-meta__tags__label {
+    color: #adafb2
+}
+
+.team-16#video_index .video-meta__link,
+.team-16#video_index .video-meta__tag {
+    color: #fff
+}
+
+.team-16#video_index .video-meta__link:hover,
+.team-16#video_index .video-meta__tag:hover {
+    color: #CE1126;
+    text-decoration: underline
+}
+
+.team-16#video_index .video-meta__list-sep {
+    color: #fff
+}
+
+.team-16#video_index .video-meta__duration {
+    color: #adafb2
+}
+
+.team-16#video_index .carousel__title {
+    color: #fff
+}
+
+.team-16#video_index .carousel-item__headline {
+    color: #fff;
+    background: rgba(206, 17, 38, .9)
+}
+
+.team-16#video_index .carousel-item__tile:hover .carousel-item__headline {
+    background: #ce1126
+}
+
+.team-16#video_index .carousel__arrow--left:before,
+.team-16#video_index .carousel__arrow--right:before {
+    color: #fff
+}
+
+.team-16#video_index .carousel,
+.team-16#video_index .video-meta,
+.team-16#video_index .widget__ad-slot,
+.team-16#video_index .widget__bottom {
+    background-color: #282828
+}
+
+.team-16#video_index .widget__pipe {
+    color: #181818
+}
+
+.team-16#video_index #bottom .playlists,
+.team-16#video_index #bottom .promos {
+    background-color: transparent
+}
+
+.team-16#video_index .video-preview__blurb,
+.team-16#video_index .video-preview__timestamp {
+    color: #999
+}
+
+.team-16#video_index .social-share__share-link:hover {
+    color: #CE1126;
+    text-decoration: underline
+}
+
+.team-16#video_index .nhl-spinner {
+    background: #fff;
+    background: -moz-linear-gradient(left, #fff 10%, rgba(0, 0, 0, 0) 42%);
+    background: -webkit-linear-gradient(left, #fff 10%, rgba(0, 0, 0, 0) 42%);
+    background: -o-linear-gradient(left, #fff 10%, rgba(0, 0, 0, 0) 42%);
+    background: -ms-linear-gradient(left, #fff 10%, rgba(0, 0, 0, 0) 42%);
+    background: linear-gradient(to right, #fff 10%, rgba(0, 0, 0, 0) 42%)
+}
+
+.team-16#video_index .nhl-spinner:before {
+    background: #fff
+}
+
+.team-16#video_index .nhl-spinner:after {
+    background: #000
+}
+
+.team-16 .video--logobar__link .video--logobar__label {
+    color: #999
+}
+
+.team-16 .video--logobar__link:hover .video--logobar__label {
+    color: #CE1126;
+    text-decoration: underline
+}
+
+.team-16 .video--logobar__link--shop {
+    color: #fff
+}
+
+.team-16 .video--logobar__link--shop:hover {
+    color: #CE1126
+}
+
+.team-16 .video-search {
+    background-color: #eee
+}
+
+.team-16 .marketing-template .marketing-nav {
+    background-color: #CE1126
+}
+
+.team-16 .marketing-template .lines-button .lines-button__text {
+    color: #fff
+}
+
+.team-16 .marketing-template .lines-button .lines-button__lines,
+.team-16 .marketing-template .lines-button .lines-button__lines:after,
+.team-16 .marketing-template .lines-button .lines-button__lines:before {
+    background-color: #fff
+}
+
+.team-16 .marketing-template .lines-button--close .lines-button__lines {
+    background: 0 0
+}
+
+.team-16 .marketing-template .lines-button:hover .lines-button__text {
+    color: #ccc
+}
+
+.team-16 .marketing-template .lines-button:hover .lines-button__lines,
+.team-16 .marketing-template .lines-button:hover .lines-button__lines:after,
+.team-16 .marketing-template .lines-button:hover .lines-button__lines:before {
+    background-color: #ccc
+}
+
+.team-16 .marketing-template .lines-button--close:hover .lines-button__lines {
+    background: 0 0
+}
+
+.team-16 .marketing-template .marketing-menu {
+    background: #000
+}
+
+.team-16 .marketing-template .marketing-menu__nav-link {
+    color: #fff
+}
+
+.team-16 .marketing-template .marketing-menu__nav-link--active,
+.team-16 .marketing-template .marketing-menu__nav-link:hover {
+    color: #ccc
+}
+
+.team-16 .marketing-template .marketing-section-intro__title {
+    font-family: UnitedSans;
+    text-transform: uppercase;
+    font-size: 36px
+}
+
+.team-16 .marketing-template .leading-dots {
+    color: rgba(206, 17, 38, .9)
+}
+
+.team-16 .marketing-template .divider {
+    background: rgba(206, 17, 38, .9)
+}
+
+.team-16 .marketing-template .marketing-section-intro__subtitle {
+    color: #333
+}
+
+.team-16 .marketing-template .marketing-section-intro__subtitle:after {
+    background: #dedede
+}
+
+.team-16 .marketing-template .fixed-nav__link {
+    background: #000
+}
+
+.team-16 .marketing-template .fixed-nav__link--active {
+    background: 0 0;
+    border: 1px solid #CE1126
+}
+
+.team-16 .marketing-template .fixed-nav__nav-title {
+    color: #000
+}
+
+.team-16 .megamenu-navbar-overflow__menu-item-link,
+.team-16 .megamenu-navbar-overflow__menu-item-link:active,
+.team-16 .megamenu-navbar-overflow__menu-item-link:focus,
+.team-16 .megamenu-navbar-overflow__menu-item-link:link,
+.team-16 .megamenu-navbar-overflow__menu-item-link:visited,
+.team-16 .megamenu-panel a,
+.team-16 .megamenu-panel a:active,
+.team-16 .megamenu-panel a:focus,
+.team-16 .megamenu-panel a:link,
+.team-16 .megamenu-panel a:visited {
+    color: #CE1126
+}
+
+.team-16 .megamenu-navbar-overflow__menu-item-link:hover,
+.team-16 .megamenu-panel a:hover {
+    color: #ea1028;
+    text-decoration: none
+}
+
+.team-16 .megamenu__main-container,
+.team-16 .megamenu__main-container:before {
+    background: #000
+}
+
+.team-16 .megamenu-static-navbar__menu-button {
+    border-color: rgba(255, 255, 255, .5);
+    color: #fff
+}
+
+.team-16 .megamenu-static-navbar__menu-button--pressed {
+    background: rgba(255, 255, 255, .3);
+    border-color: rgba(255, 255, 255, .3)
+}
+
+@media screen and (min-width:768px) {
+    .team-16 .megamenu[data-is-club] .megamenu-club-logobar__logo {
+        line-height: 76px;
+        height: 76px;
+        margin-top: -10px;
+        margin-left: 14px
+    }
+}
+
+@media screen and (min-width:1024px) {
+    .team-16 .megamenu[data-is-club] .megamenu-navbar-overflow__menu-item-link {
+        font-size: 12px;
+        padding: 0 10px
+    }
+}
+
+@media screen and (min-width:1200px) {
+    .team-16 .megamenu-navbar-overflow__menu-item .megamenu-navbar-overflow__menu-item-link {
+        color: #fff
+    }
+
+    .no-js .team-16 .megamenu-navbar-overflow__menu-item:hover .megamenu-navbar-overflow__menu-item-link,
+    .team-16 .megamenu-navbar-overflow__menu-item--hovered .megamenu-navbar-overflow__menu-item-link,
+    .team-16 .megamenu-navbar-overflow__menu-item--is-active .megamenu-navbar-overflow__menu-item-link,
+    .team-16 .megamenu-navbar-overflow__menu-item--visible .megamenu-navbar-overflow__menu-item-link {
+        border-top-color: #CE1126;
+        color: #181818
+    }
+
+    .no-js .team-16 .megamenu-navbar-overflow__menu-item:hover .megamenu-navbar-overflow__menu-item-link:hover,
+    .team-16 .megamenu-navbar-overflow__menu-item--hovered .megamenu-navbar-overflow__menu-item-link:hover,
+    .team-16 .megamenu-navbar-overflow__menu-item--is-active .megamenu-navbar-overflow__menu-item-link:hover,
+    .team-16 .megamenu-navbar-overflow__menu-item--visible .megamenu-navbar-overflow__menu-item-link:hover {
+        color: #181818
+    }
+
+    .team-16 .megamenu-navbar-overflow__menu-item.megamenu-navbar-overflow__menu-item--tickets-item {
+        background-color: #337d01
+    }
+
+    .team-16 .megamenu-navbar-overflow__menu-item.megamenu-navbar-overflow__menu-item--tickets-item .megamenu-navbar-overflow__menu-item-link {
+        color: #fff
+    }
+
+    .no-js .team-16 .megamenu-navbar-overflow__menu-item.megamenu-navbar-overflow__menu-item--tickets-item.megamenu-navbar-overflow__menu-item:hover,
+    .team-16 .megamenu-navbar-overflow__menu-item.megamenu-navbar-overflow__menu-item--tickets-item.megamenu-navbar-overflow__menu-item--hovered,
+    .team-16 .megamenu-navbar-overflow__menu-item.megamenu-navbar-overflow__menu-item--tickets-item.megamenu-navbar-overflow__menu-item--is-active,
+    .team-16 .megamenu-navbar-overflow__menu-item.megamenu-navbar-overflow__menu-item--tickets-item.megamenu-navbar-overflow__menu-item--visible {
+        background-color: #48b001
+    }
+
+    .no-js .team-16 .megamenu-navbar-overflow__menu-item.megamenu-navbar-overflow__menu-item--spotlight-item.megamenu-navbar-overflow__menu-item:hover,
+    .team-16 .megamenu-navbar-overflow__menu-item.megamenu-navbar-overflow__menu-item--spotlight-item,
+    .team-16 .megamenu-navbar-overflow__menu-item.megamenu-navbar-overflow__menu-item--spotlight-item.megamenu-navbar-overflow__menu-item--hovered,
+    .team-16 .megamenu-navbar-overflow__menu-item.megamenu-navbar-overflow__menu-item--spotlight-item.megamenu-navbar-overflow__menu-item--is-active,
+    .team-16 .megamenu-navbar-overflow__menu-item.megamenu-navbar-overflow__menu-item--spotlight-item.megamenu-navbar-overflow__menu-item--visible {
+        background-color: #000
+    }
+
+    .no-js .team-16 .megamenu-navbar-overflow__menu-item.megamenu-navbar-overflow__menu-item--tickets-item.megamenu-navbar-overflow__menu-item:hover .megamenu-navbar-overflow__menu-item-link,
+    .team-16 .megamenu-navbar-overflow__menu-item.megamenu-navbar-overflow__menu-item--tickets-item.megamenu-navbar-overflow__menu-item--hovered .megamenu-navbar-overflow__menu-item-link,
+    .team-16 .megamenu-navbar-overflow__menu-item.megamenu-navbar-overflow__menu-item--tickets-item.megamenu-navbar-overflow__menu-item--is-active .megamenu-navbar-overflow__menu-item-link,
+    .team-16 .megamenu-navbar-overflow__menu-item.megamenu-navbar-overflow__menu-item--tickets-item.megamenu-navbar-overflow__menu-item--visible .megamenu-navbar-overflow__menu-item-link {
+        border-color: #48b001;
+        color: #fff
+    }
+
+    .no-js .team-16 .megamenu-navbar-overflow__menu-item.megamenu-navbar-overflow__menu-item--tickets-item.megamenu-navbar-overflow__menu-item:hover .megamenu-navbar-overflow__menu-item-link:hover,
+    .team-16 .megamenu-navbar-overflow__menu-item.megamenu-navbar-overflow__menu-item--tickets-item.megamenu-navbar-overflow__menu-item--hovered .megamenu-navbar-overflow__menu-item-link:hover,
+    .team-16 .megamenu-navbar-overflow__menu-item.megamenu-navbar-overflow__menu-item--tickets-item.megamenu-navbar-overflow__menu-item--is-active .megamenu-navbar-overflow__menu-item-link:hover,
+    .team-16 .megamenu-navbar-overflow__menu-item.megamenu-navbar-overflow__menu-item--tickets-item.megamenu-navbar-overflow__menu-item--visible .megamenu-navbar-overflow__menu-item-link:hover {
+        color: #fff
+    }
+
+    .team-16 .megamenu-navbar-overflow__menu-item.megamenu-navbar-overflow__menu-item--spotlight-item .megamenu-navbar-overflow__menu-item-link {
+        color: #fff
+    }
+
+    .no-js .team-16 .megamenu-navbar-overflow__menu-item.megamenu-navbar-overflow__menu-item--spotlight-item.megamenu-navbar-overflow__menu-item:hover .megamenu-navbar-overflow__menu-item-link,
+    .team-16 .megamenu-navbar-overflow__menu-item.megamenu-navbar-overflow__menu-item--spotlight-item.megamenu-navbar-overflow__menu-item--hovered .megamenu-navbar-overflow__menu-item-link,
+    .team-16 .megamenu-navbar-overflow__menu-item.megamenu-navbar-overflow__menu-item--spotlight-item.megamenu-navbar-overflow__menu-item--is-active .megamenu-navbar-overflow__menu-item-link,
+    .team-16 .megamenu-navbar-overflow__menu-item.megamenu-navbar-overflow__menu-item--spotlight-item.megamenu-navbar-overflow__menu-item--visible .megamenu-navbar-overflow__menu-item-link {
+        border-color: #000;
+        color: #fff
+    }
+
+    .no-js .team-16 .megamenu-navbar-overflow__menu-item.megamenu-navbar-overflow__menu-item--spotlight-item.megamenu-navbar-overflow__menu-item:hover .megamenu-navbar-overflow__menu-item-link:hover,
+    .team-16 .megamenu-navbar-overflow__menu-item.megamenu-navbar-overflow__menu-item--spotlight-item.megamenu-navbar-overflow__menu-item--hovered .megamenu-navbar-overflow__menu-item-link:hover,
+    .team-16 .megamenu-navbar-overflow__menu-item.megamenu-navbar-overflow__menu-item--spotlight-item.megamenu-navbar-overflow__menu-item--is-active .megamenu-navbar-overflow__menu-item-link:hover,
+    .team-16 .megamenu-navbar-overflow__menu-item.megamenu-navbar-overflow__menu-item--spotlight-item.megamenu-navbar-overflow__menu-item--visible .megamenu-navbar-overflow__menu-item-link:hover {
+        color: #fff
+    }
+}
+
+@media screen and (min-width:1308px) {
+    .team-16 .megamenu[data-is-club] .megamenu-navbar-overflow__menu-item-link {
+        font-size: 14px;
+        padding: 0 12px
+    }
+}
+
+.team-16 .megamenu-static-navbar__menu-item,
+.team-16 .megamenu-static-navbar__menu-item:hover {
+    color: #fff
+}
+
+.no-js .team-16 .megamenu-static-navbar__menu-item:hover,
+.team-16 .megamenu-static-navbar__menu-item--hovered,
+.team-16 .megamenu-static-navbar__menu-item--is-active,
+.team-16 .megamenu-static-navbar__menu-item--visible {
+    border-top-color: #CE1126;
+    color: #181818
+}
+
+.no-js .team-16 .megamenu-static-navbar__menu-item:hover:hover,
+.team-16 .megamenu-static-navbar__menu-item--hovered:hover,
+.team-16 .megamenu-static-navbar__menu-item--is-active:hover,
+.team-16 .megamenu-static-navbar__menu-item--visible:hover {
+    color: #181818
+}
+
+.team-16 .megamenu-static-navbar__menu-item.megamenu-static-navbar__menu-item--tickets-item {
+    color: #fff;
+    background-color: #337d01
+}
+
+.no-js .team-16 .megamenu-static-navbar__menu-item.megamenu-static-navbar__menu-item--tickets-item.megamenu-static-navbar__menu-item:hover,
+.team-16 .megamenu-static-navbar__menu-item.megamenu-static-navbar__menu-item--tickets-item.megamenu-static-navbar__menu-item--hovered,
+.team-16 .megamenu-static-navbar__menu-item.megamenu-static-navbar__menu-item--tickets-item.megamenu-static-navbar__menu-item--is-active,
+.team-16 .megamenu-static-navbar__menu-item.megamenu-static-navbar__menu-item--tickets-item.megamenu-static-navbar__menu-item--visible {
+    background-color: #48b001;
+    border-color: #48b001;
+    color: #fff
+}
+
+.no-js .team-16 .megamenu-static-navbar__menu-item.megamenu-static-navbar__menu-item--tickets-item.megamenu-static-navbar__menu-item:hover:hover,
+.team-16 .megamenu-static-navbar__menu-item.megamenu-static-navbar__menu-item--tickets-item.megamenu-static-navbar__menu-item--hovered:hover,
+.team-16 .megamenu-static-navbar__menu-item.megamenu-static-navbar__menu-item--tickets-item.megamenu-static-navbar__menu-item--is-active:hover,
+.team-16 .megamenu-static-navbar__menu-item.megamenu-static-navbar__menu-item--tickets-item.megamenu-static-navbar__menu-item--visible:hover {
+    color: #fff
+}
+
+.team-16 .megamenu-static-navbar__menu-item.megamenu-static-navbar__menu-item--spotlight-item {
+    background-color: #000;
+    color: #fff
+}
+
+.no-js .team-16 .megamenu-static-navbar__menu-item.megamenu-static-navbar__menu-item--spotlight-item.megamenu-static-navbar__menu-item:hover,
+.team-16 .megamenu-static-navbar__menu-item.megamenu-static-navbar__menu-item--spotlight-item.megamenu-static-navbar__menu-item--hovered,
+.team-16 .megamenu-static-navbar__menu-item.megamenu-static-navbar__menu-item--spotlight-item.megamenu-static-navbar__menu-item--is-active,
+.team-16 .megamenu-static-navbar__menu-item.megamenu-static-navbar__menu-item--spotlight-item.megamenu-static-navbar__menu-item--visible {
+    background-color: #000;
+    border-color: #000;
+    color: #fff
+}
+
+.team-16 .megamenu-club-logobar:before,
+.team-16 .top-nav-wrapper,
+.team-16 .top-nav__primary__menu,
+.team-16 .top-nav__static-wrapper {
+    background: #CE1126
+}
+
+.no-js .team-16 .megamenu-static-navbar__menu-item.megamenu-static-navbar__menu-item--spotlight-item.megamenu-static-navbar__menu-item:hover:hover,
+.team-16 .megamenu-static-navbar__menu-item.megamenu-static-navbar__menu-item--spotlight-item.megamenu-static-navbar__menu-item--hovered:hover,
+.team-16 .megamenu-static-navbar__menu-item.megamenu-static-navbar__menu-item--spotlight-item.megamenu-static-navbar__menu-item--is-active:hover,
+.team-16 .megamenu-static-navbar__menu-item.megamenu-static-navbar__menu-item--spotlight-item.megamenu-static-navbar__menu-item--visible:hover {
+    color: #fff
+}
+
+.team-16 .megamenu-club-logobar {
+    background-color: #CE1126
+}
+
+.team-16 .megamenu-club-logobar__tagline {
+    max-width: 442px;
+    margin-left: 110px;
+    margin-top: 12px;
+    line-height: 32px;
+    height: 32px
+}
+
+.team-16 .megamenu-languagebar__title {
+    color: #262626
+}
+
+.team-16 .top-nav-outer-wrapper:not(.top-nav-outer-wrapper--sticky),
+.team-16 .top-nav-outer-wrapper:not(.top-nav-outer-wrapper--sticky) .top-nav__primary__menu {
+    background: #b50f21
+}
+
+@media screen and (min-width:1024px) and (hover:hover),
+(-ms-high-contrast:none),
+(-ms-high-contrast:active) {
+    .team-16 .top-nav-outer-wrapper:not(.top-nav-outer-wrapper--sticky) .top-nav-wrapper {
+        box-shadow: inset 0 -56px 0 0 #b50f21
+    }
+
+    .team-16 .top-nav__primary__menu__item:focus .top-nav__primary__menu__item__link,
+    .team-16 .top-nav__primary__menu__item:hover .top-nav__primary__menu__item__link,
+    .team-16 .top-nav__primary__menu__item__link,
+    .team-16 .top-nav__primary__menu__item__link:active,
+    .team-16 .top-nav__primary__menu__item__link:focus,
+    .team-16 .top-nav__primary__menu__item__link:link,
+    .team-16 .top-nav__primary__menu__item__link:visited {
+        color: #fff
+    }
+
+    .team-16 .top-nav__primary__menu__item:focus .top-nav__primary__menu__item__link:active,
+    .team-16 .top-nav__primary__menu__item:focus .top-nav__primary__menu__item__link:focus,
+    .team-16 .top-nav__primary__menu__item:focus .top-nav__primary__menu__item__link:link,
+    .team-16 .top-nav__primary__menu__item:focus .top-nav__primary__menu__item__link:visited,
+    .team-16 .top-nav__primary__menu__item:hover .top-nav__primary__menu__item__link:active,
+    .team-16 .top-nav__primary__menu__item:hover .top-nav__primary__menu__item__link:focus,
+    .team-16 .top-nav__primary__menu__item:hover .top-nav__primary__menu__item__link:link,
+    .team-16 .top-nav__primary__menu__item:hover .top-nav__primary__menu__item__link:visited {
+        color: #fff;
+        background: #000
+    }
+}
+
+@media screen and (max-width:1023px),
+(hover:none) {
+    .team-16 .top-nav__primary__menu {
+        background: #b50f21
+    }
+
+    .team-16 .top-nav__primary__menu__item:not(.top-nav__primary__menu__item--account) .top-nav__primary__menu__item__link {
+        color: #fff
+    }
+
+    .team-16 .top-nav__primary__menu__item:not(.top-nav__primary__menu__item--account) .top-nav__primary__menu__item__link:active,
+    .team-16 .top-nav__primary__menu__item:not(.top-nav__primary__menu__item--account) .top-nav__primary__menu__item__link:focus,
+    .team-16 .top-nav__primary__menu__item:not(.top-nav__primary__menu__item--account) .top-nav__primary__menu__item__link:hover {
+        color: #fff;
+        background: #000
+    }
+
+    .team-16 .top-nav__primary__menu__item--account .top-nav__primary__menu__item__link {
+        color: #000;
+        background: #fff
+    }
+
+    .team-16 .top-nav__primary__menu__item--account:focus .top-nav__primary__menu__item__link,
+    .team-16 .top-nav__primary__menu__item--account:hover .top-nav__primary__menu__item__link {
+        color: #fff;
+        background: #000
+    }
+
+    .team-16 .top-nav__account--logged-in .top-nav__account__icon:after {
+        border-color: #fff
+    }
+
+    .team-16 .top-nav__account--logged-in:focus .top-nav__account__icon:after,
+    .team-16 .top-nav__account--logged-in:hover .top-nav__account__icon:after {
+        border-color: #000
+    }
+}
+
+.team-16 .top-nav__primary__menu__item .top-nav__primary__menu__item__link:focus,
+.team-16 .top-nav__primary__menu__item .top-nav__primary__menu__item__link:hover {
+    color: #fff;
+    background: #000
+}
+
+.team-16 .top-nav__primary__menu__item .top-nav__primary__menu__item__link:focus:before,
+.team-16 .top-nav__primary__menu__item .top-nav__primary__menu__item__link:hover:before {
+    color: #fff
+}
+
+.team-16 .top-nav__secondary-section__title {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 700;
+    font-family: Sintony, Arial, sans-serif;
+    text-transform: none
+}
+
+.team-16 .top-nav__secondary-section__subsection__title {
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: .4px;
+    text-transform: uppercase;
+    font-family: Sintony, Arial, sans-serif
+}
+
+@media screen and (min-width:568px) and (max-width:1023px),
+(hover:none) {
+    .team-16 .top-nav__primary__menu__item--open .top-nav__secondary__button {
+        color: #000;
+        background: #fff
+    }
+
+    .team-16 .top-nav__primary__menu__item--open .top-nav__secondary__button:focus,
+    .team-16 .top-nav__primary__menu__item--open .top-nav__secondary__button:hover {
+        color: #fff;
+        background: #000
+    }
+}
+
+@media screen and (max-width:567px) {
+
+    .team-16 .top-nav__primary__menu__item--open .top-nav__primary__menu__item__link,
+    .team-16 .top-nav__primary__menu__item--open .top-nav__primary__menu__item__link .top-nav__primary__menu__item__link__text,
+    .team-16 .top-nav__primary__menu__item--open .top-nav__secondary__button,
+    .team-16 .top-nav__primary__menu__item--open .top-nav__secondary__button .top-nav__primary__menu__item__link__text {
+        background-color: transparent !important;
+        color: #CE1126 !important
+    }
+
+    .team-16 .top-nav__primary__menu__item--open .top-nav__secondary__button:focus,
+    .team-16 .top-nav__primary__menu__item--open .top-nav__secondary__button:hover {
+        color: #ea1028 !important;
+        border-bottom-color: #ea1028 !important
+    }
+
+    .team-16 .top-nav__primary__menu__item--open .top-nav__primary__menu__item__link:focus,
+    .team-16 .top-nav__primary__menu__item--open .top-nav__primary__menu__item__link:focus .top-nav__primary__menu__item__link__text,
+    .team-16 .top-nav__primary__menu__item--open .top-nav__primary__menu__item__link:hover,
+    .team-16 .top-nav__primary__menu__item--open .top-nav__primary__menu__item__link:hover .top-nav__primary__menu__item__link__text {
+        color: #ea1028 !important;
+        text-decoration-color: #ea1028 !important
+    }
+
+    .team-16 .top-nav__primary__menu__item:not(.top-nav__primary__menu__item--open) .top-nav__primary__menu__item__link:focus,
+    .team-16 .top-nav__primary__menu__item:not(.top-nav__primary__menu__item--open) .top-nav__primary__menu__item__link:hover {
+        color: #fff;
+        background: #000
+    }
+
+    .team-16 .top-nav__primary__menu__item:not(.top-nav__primary__menu__item--open) .top-nav__primary__menu__item__link:focus:before,
+    .team-16 .top-nav__primary__menu__item:not(.top-nav__primary__menu__item--open) .top-nav__primary__menu__item__link:hover:before {
+        color: #fff
+    }
+
+    .team-16 .top-nav__primary__menu__item--open .top-nav__primary__menu__item__link:focus,
+    .team-16 .top-nav__primary__menu__item--open .top-nav__primary__menu__item__link:hover {
+        background: 0 0
+    }
+
+    .team-16 .top-nav__primary__menu__item--open .top-nav__primary__menu__item__link:focus .top-nav__primary__menu__item__link__text,
+    .team-16 .top-nav__primary__menu__item--open .top-nav__primary__menu__item__link:hover .top-nav__primary__menu__item__link__text {
+        color: #000;
+        text-decoration-color: #000
+    }
+}
+
+.team-16 .top-nav__hamburger:after,
+.team-16 .top-nav__hamburger:before,
+.team-16 .top-nav__hamburger:focus:after,
+.team-16 .top-nav__hamburger:focus:before,
+.team-16 .top-nav__hamburger:hover:after,
+.team-16 .top-nav__hamburger:hover:before {
+    border-color: #fff
+}
+
+.team-16 .top-nav__hamburger,
+.team-16 .top-nav__search:not(.top-nav__search--languagebar),
+.team-16 .top-nav__search:not(.top-nav__search--languagebar) .top-nav__search__icon:before,
+.team-16 .top-nav__secondary__button {
+    color: #fff
+}
+
+.team-16 .top-nav__search--open:not(.top-nav__search--languagebar) {
+    background: #fff
+}
+
+.team-16 .top-nav__search--open:not(.top-nav__search--languagebar) .top-nav__search__icon:before {
+    color: #000
+}
+
+.team-16 .top-nav__hamburger:focus,
+.team-16 .top-nav__hamburger:hover,
+.team-16 .top-nav__search:not(.top-nav__search--languagebar):not(.top-nav__search--open):focus,
+.team-16 .top-nav__search:not(.top-nav__search--languagebar):not(.top-nav__search--open):focus .top-nav__search__icon:before,
+.team-16 .top-nav__search:not(.top-nav__search--languagebar):not(.top-nav__search--open):hover,
+.team-16 .top-nav__search:not(.top-nav__search--languagebar):not(.top-nav__search--open):hover .top-nav__search__icon:before,
+.team-16 .top-nav__secondary__button:focus,
+.team-16 .top-nav__secondary__button:hover {
+    color: #fff;
+    background: #000
+}
+
+.team-16 .top-nav__search--open:not(.top-nav__search--languagebar) .top-nav__search__icon:focus,
+.team-16 .top-nav__search--open:not(.top-nav__search--languagebar) .top-nav__search__icon:hover {
+    background: #000
+}
+
+.team-16 .top-nav__search--open:not(.top-nav__search--languagebar) .top-nav__search__icon:focus:before,
+.team-16 .top-nav__search--open:not(.top-nav__search--languagebar) .top-nav__search__icon:hover:before {
+    color: #fff
+}
+
+.team-16 .top-nav__secondary-section__menu__item__link--team .top-nav__secondary-section__menu__item__link__team-name,
+.team-16 .top-nav__secondary-section__menu__item__link--team .top-nav__secondary-section__menu__item__link__team-name:active,
+.team-16 .top-nav__secondary-section__menu__item__link--team .top-nav__secondary-section__menu__item__link__team-name:focus,
+.team-16 .top-nav__secondary-section__menu__item__link--team .top-nav__secondary-section__menu__item__link__team-name:link,
+.team-16 .top-nav__secondary-section__menu__item__link--team .top-nav__secondary-section__menu__item__link__team-name:visited,
+.team-16 .top-nav__secondary-section__menu__item__link:not(.top-nav__secondary-section__menu__item__link--team),
+.team-16 .top-nav__secondary-section__menu__item__link:not(.top-nav__secondary-section__menu__item__link--team):active,
+.team-16 .top-nav__secondary-section__menu__item__link:not(.top-nav__secondary-section__menu__item__link--team):focus,
+.team-16 .top-nav__secondary-section__menu__item__link:not(.top-nav__secondary-section__menu__item__link--team):link,
+.team-16 .top-nav__secondary-section__menu__item__link:not(.top-nav__secondary-section__menu__item__link--team):visited {
+    color: #CE1126
+}
+
+.team-16 .top-nav__secondary-section__menu__item__link--team .top-nav__secondary-section__menu__item__link__team-name:focus,
+.team-16 .top-nav__secondary-section__menu__item__link--team .top-nav__secondary-section__menu__item__link__team-name:hover,
+.team-16 .top-nav__secondary-section__menu__item__link:not(.top-nav__secondary-section__menu__item__link--team):focus,
+.team-16 .top-nav__secondary-section__menu__item__link:not(.top-nav__secondary-section__menu__item__link--team):hover {
+    color: #ea1028;
+    text-decoration: underline;
+    text-decoration-color: #ea1028
+}
+
+.team-16 .site-footer[data-is-club] {
+    background-color: #111
+}
+
+.team-16 .site-footer[data-is-club] button,
+.team-16 .site-footer[data-is-club] button:active,
+.team-16 .site-footer[data-is-club] button:focus {
+    color: #fff;
+    background-color: #CE1126;
+    border-color: #CE1126
+}
+
+.team-16 .site-footer[data-is-club] button:hover {
+    background-color: #ed253b;
+    border-color: #ed253b
+}
+
+.team-16 .site-footer[data-is-club] .site-footer__legal-link:hover {
+    color: #ea1028;
+    text-decoration: none
+}
